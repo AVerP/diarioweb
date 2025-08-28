@@ -1,0 +1,38 @@
+{{ define "main" }}
+  <main class="container mx-auto px-4" role="main">
+    <h1>{{ .Title }}</h1>
+    <p>Tabla de seguimiento. Para escribir y <strong>comentar</strong> cada día, usa “Abrir / Comentar”.</p>
+
+    <table class="table-follow">
+      <thead>
+        <tr>
+          <th>Fecha</th>
+          <th>1. ¿Cómo es tu ética?</th>
+          <th>2. ¿Busco verdad, bien y belleza o fealdad, maldad y mentira?</th>
+          <th>3. Compromiso de mejora</th>
+          <th>4. ¿Soy coherente?</th>
+          <th>Comentarios</th>
+        </tr>
+      </thead>
+      <tbody>
+        {{ range .Pages.ByDate }}
+          <tr>
+            <td>{{ .Date.Format "02-01-2006" }}</td>
+            <td>{{ with .Params.q1 }}{{ . | markdownify | plainify | truncate 140 }}{{ else }}—{{ end }}</td>
+            <td>{{ with .Params.q2 }}{{ . | markdownify | plainify | truncate 140 }}{{ else }}—{{ end }}</td>
+            <td>{{ with .Params.q3 }}{{ . | markdownify | plainify | truncate 140 }}{{ else }}—{{ end }}</td>
+            <td>{{ with .Params.q4 }}{{ . | markdownify | plainify | truncate 140 }}{{ else }}—{{ end }}</td>
+            <td><a href="{{ .RelPermalink }}">Abrir / Comentar</a></td>
+          </tr>
+        {{ end }}
+      </tbody>
+    </table>
+
+    <style>
+      .table-follow { width:100%; border-collapse: collapse; }
+      .table-follow th, .table-follow td { border-bottom: 1px solid #e5e5e5; padding:.6rem .8rem; vertical-align: top; }
+      .table-follow th { text-align:left; background:#fafafa; }
+      .table-follow tr:nth-child(even) td { background:#fbfbfb; }
+    </style>
+  </main>
+{{ end }}

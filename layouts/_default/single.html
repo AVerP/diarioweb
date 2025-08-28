@@ -1,0 +1,30 @@
+{{ define "main" }}
+  <main class="container mx-auto px-4" role="main">
+    <article class="h-entry">
+      <header class="mb-4">
+        <h1 class="p-name">{{ .Title }}</h1>
+        {{ with .Date }}<p class="text-sm text-gray-600">{{ .Format "02 Jan 2006" }}</p>{{ end }}
+      </header>
+
+      <div class="e-content">
+        {{ if or .Params.q1 .Params.q2 .Params.q3 .Params.q4 }}
+          <h3>1. ¿Cómo es tu ética?</h3>
+          <p>{{ with .Params.q1 }}{{ . | markdownify }}{{ else }}<em>(Sin respuesta)</em>{{ end }}</p>
+
+          <h3>2. ¿En mis actos busco la verdad, el bien y la belleza o busco la fealdad, la maldad y la mentira?</h3>
+          <p>{{ with .Params.q2 }}{{ . | markdownify }}{{ else }}<em>(Sin respuesta)</em>{{ end }}</p>
+
+          <h3>3. El compromiso en lo que voy a mejorar</h3>
+          <p>{{ with .Params.q3 }}{{ . | markdownify }}{{ else }}<em>(Sin respuesta)</em>{{ end }}</p>
+
+          <h3>4. ¿Yo soy coherente?</h3>
+          <p>{{ with .Params.q4 }}{{ . | markdownify }}{{ else }}<em>(Sin respuesta)</em>{{ end }}</p>
+        {{ else }}
+          {{ .Content }}
+        {{ end }}
+      </div>
+
+      {{ partial "comments.html" . }}
+    </article>
+  </main>
+{{ end }}

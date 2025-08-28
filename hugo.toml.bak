@@ -1,0 +1,27 @@
+baseURL = "https://AVerP.github.io/diarioweb/"
+languageCode = "es"
+defaultContentLanguage = "es"
+title = "Cronos"
+theme = "ananke"
+paginate = 10
+
+[params]
+  # Muestra estas secciones en la portada
+  mainSections = ["diario", "notas-filosoficas"]
+
+[permalinks]
+  diario = "/diario/:slug/"
+  notas-filosoficas = "/notas-filosoficas/:slug/"
+
+[menu]
+  [[menu.main]]
+    name = "Diario"
+    url  = "/diario/"
+    weight = 10
+  [[menu.main]]
+    name = "Notas Filosóficas"
+    url  = "/notas-filosoficas/"
+    weight = 20
+
+[build.sass]
+transpiler = "dartsass"

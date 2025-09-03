@@ -11,6 +11,12 @@
           <th>2. ¿Busco verdad, bien y belleza o fealdad, maldad y mentira?</th>
           <th>3. Compromiso de mejora</th>
           <th>4. ¿Soy coherente?</th>
+          <th>5. ¿Estoy siendo prudente con mis actos?</th>
+          <th>6. ¿Cuál es tu orden de prioridades?</th>
+          <th>7. ¿Hago el bien según cómo me siento o porque debe ser?</th>
+          <th>8. ¿Soy parte del rebaño?</th>
+          <th>9. ¿Me creo un superhombre?</th>
+          <th>10. ¿Qué seguridades tengo en mi vida?</th>
           <th>Comentarios</th>
         </tr>
       </thead>
@@ -22,6 +28,12 @@
             <td>{{ with .Params.q2 }}{{ . | markdownify | plainify | truncate 140 }}{{ else }}—{{ end }}</td>
             <td>{{ with .Params.q3 }}{{ . | markdownify | plainify | truncate 140 }}{{ else }}—{{ end }}</td>
             <td>{{ with .Params.q4 }}{{ . | markdownify | plainify | truncate 140 }}{{ else }}—{{ end }}</td>
+            <td>{{ with .Params.q5 }}{{ . | markdownify | plainify | truncate 140 }}{{ else }}—{{ end }}</td>
+            <td>{{ with .Params.q6 }}{{ . | markdownify | plainify | truncate 140 }}{{ else }}—{{ end }}</td>
+            <td>{{ with .Params.q7 }}{{ . | markdownify | plainify | truncate 140 }}{{ else }}—{{ end }}</td>
+            <td>{{ with .Params.q8 }}{{ . | markdownify | plainify | truncate 140 }}{{ else }}—{{ end }}</td>
+            <td>{{ with .Params.q9 }}{{ . | markdownify | plainify | truncate 140 }}{{ else }}—{{ end }}</td>
+            <td>{{ with .Params.q10 }}{{ . | markdownify | plainify | truncate 140 }}{{ else }}—{{ end }}</td>
             <td><a href="{{ .RelPermalink }}">Abrir / Comentar</a></td>
           </tr>
         {{ end }}

@@ -2,62 +2,53 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>http://localhost:1313/</loc>
+    <loc>http://localhost:1313/diarioweb/</loc>
     <lastmod>2025-09-06T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/diario/</loc>
+    <loc>http://localhost:1313/diarioweb/diario/</loc>
     <lastmod>2025-09-06T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/diario/2025-09-06/</loc>
-    <lastmod>2025-09-06T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/diario/2025-09-05/</loc>
-    <lastmod>2025-09-05T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/diario/2025-09-04/</loc>
-    <lastmod>2025-09-04T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/diario/2025-09-03/</loc>
+    <loc>http://localhost:1313/diarioweb/diario/2025-09-03/</loc>
     <lastmod>2025-09-03T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/diario/2025-09-02/</loc>
+    <loc>http://localhost:1313/diarioweb/diario/2025-09-02/</loc>
     <lastmod>2025-09-02T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/diario/2025-09-01/</loc>
+    <loc>http://localhost:1313/diarioweb/diario/2025-09-01/</loc>
     <lastmod>2025-09-01T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/diario/2025-08-31/</loc>
+    <loc>http://localhost:1313/diarioweb/diario/2025-08-31/</loc>
     <lastmod>2025-08-31T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/diario/2025-08-30/</loc>
+    <loc>http://localhost:1313/diarioweb/diario/2025-08-30/</loc>
     <lastmod>2025-08-30T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/diario/2025-08-29/</loc>
+    <loc>http://localhost:1313/diarioweb/diario/2025-08-29/</loc>
     <lastmod>2025-08-29T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/diario/2025-08-28/</loc>
+    <loc>http://localhost:1313/diarioweb/diario/2025-08-28/</loc>
     <lastmod>2025-08-28T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/posts/</loc>
+    <loc>http://localhost:1313/diarioweb/posts/</loc>
     <lastmod>2025-08-27T14:57:30+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/posts/primer-post/</loc>
+    <loc>http://localhost:1313/diarioweb/posts/primer-post/</loc>
     <lastmod>2025-08-27T14:57:30+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/diario/2025-08-27/</loc>
+    <loc>http://localhost:1313/diarioweb/diario/2025-08-27/</loc>
     <lastmod>2025-08-27T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/notas-filosoficas/</loc>
+    <loc>http://localhost:1313/diarioweb/notas-filosoficas/</loc>
     <lastmod>2025-08-27T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/notas-filosoficas/tiempo-e-intuici%C3%B3n/</loc>
+    <loc>http://localhost:1313/diarioweb/notas-filosoficas/tiempo-e-intuici%C3%B3n/</loc>
     <lastmod>2025-08-27T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/diario/2025-08-26/</loc>
+    <loc>http://localhost:1313/diarioweb/diario/2025-08-26/</loc>
     <lastmod>2025-08-26T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/categories/</loc>
+    <loc>http://localhost:1313/diarioweb/categories/</loc>
   </url><url>
-    <loc>http://localhost:1313/tags/</loc>
+    <loc>http://localhost:1313/diarioweb/tags/</loc>
   </url>
 </urlset>

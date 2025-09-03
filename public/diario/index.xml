@@ -2,94 +2,73 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Diario on Cronos</title>
-    <link>http://localhost:1313/diario/</link>
+    <link>http://localhost:1313/diarioweb/diario/</link>
     <description>Recent content in Diario on Cronos</description>
     <generator>Hugo</generator>
     <language>es</language>
-    <lastBuildDate>Sat, 06 Sep 2025 00:00:00 +0000</lastBuildDate>
-    <atom:link href="http://localhost:1313/diario/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>Diario 2025-09-06</title>
-      <link>http://localhost:1313/diario/2025-09-06/</link>
-      <pubDate>Sat, 06 Sep 2025 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/diario/2025-09-06/</guid>
-      <description>&lt;h3 id=&#34;1-cómo-es-tu-ética&#34;&gt;1. ¿Cómo es tu ética?&lt;/h3&gt;&#xA;&lt;p&gt;(Escribe aquí)&lt;/p&gt;&#xA;&lt;h3 id=&#34;2-en-mis-actos-busco-la-verdad-el-bien-y-la-belleza-o-busco-la-fealdad-la-maldad-y-la-mentira&#34;&gt;2. ¿En mis actos busco la verdad, el bien y la belleza o busco la fealdad, la maldad y la mentira?&lt;/h3&gt;&#xA;&lt;p&gt;(Escribe aquí)&lt;/p&gt;&#xA;&lt;h3 id=&#34;3-el-compromiso-en-lo-que-voy-a-mejorar&#34;&gt;3. El compromiso en lo que voy a mejorar&lt;/h3&gt;&#xA;&lt;p&gt;(Escribe aquí)&lt;/p&gt;&#xA;&lt;h3 id=&#34;4-yo-soy-coherente&#34;&gt;4. ¿Yo soy coherente?&lt;/h3&gt;&#xA;&lt;p&gt;(Escribe aquí)&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Diario 2025-09-05</title>
-      <link>http://localhost:1313/diario/2025-09-05/</link>
-      <pubDate>Fri, 05 Sep 2025 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/diario/2025-09-05/</guid>
-      <description>&lt;h3 id=&#34;1-cómo-es-tu-ética&#34;&gt;1. ¿Cómo es tu ética?&lt;/h3&gt;&#xA;&lt;p&gt;(Escribe aquí)&lt;/p&gt;&#xA;&lt;h3 id=&#34;2-en-mis-actos-busco-la-verdad-el-bien-y-la-belleza-o-busco-la-fealdad-la-maldad-y-la-mentira&#34;&gt;2. ¿En mis actos busco la verdad, el bien y la belleza o busco la fealdad, la maldad y la mentira?&lt;/h3&gt;&#xA;&lt;p&gt;(Escribe aquí)&lt;/p&gt;&#xA;&lt;h3 id=&#34;3-el-compromiso-en-lo-que-voy-a-mejorar&#34;&gt;3. El compromiso en lo que voy a mejorar&lt;/h3&gt;&#xA;&lt;p&gt;(Escribe aquí)&lt;/p&gt;&#xA;&lt;h3 id=&#34;4-yo-soy-coherente&#34;&gt;4. ¿Yo soy coherente?&lt;/h3&gt;&#xA;&lt;p&gt;(Escribe aquí)&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Diario 2025-09-04</title>
-      <link>http://localhost:1313/diario/2025-09-04/</link>
-      <pubDate>Thu, 04 Sep 2025 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/diario/2025-09-04/</guid>
-      <description>&lt;h3 id=&#34;1-cómo-es-tu-ética&#34;&gt;1. ¿Cómo es tu ética?&lt;/h3&gt;&#xA;&lt;p&gt;(Escribe aquí)&lt;/p&gt;&#xA;&lt;h3 id=&#34;2-en-mis-actos-busco-la-verdad-el-bien-y-la-belleza-o-busco-la-fealdad-la-maldad-y-la-mentira&#34;&gt;2. ¿En mis actos busco la verdad, el bien y la belleza o busco la fealdad, la maldad y la mentira?&lt;/h3&gt;&#xA;&lt;p&gt;(Escribe aquí)&lt;/p&gt;&#xA;&lt;h3 id=&#34;3-el-compromiso-en-lo-que-voy-a-mejorar&#34;&gt;3. El compromiso en lo que voy a mejorar&lt;/h3&gt;&#xA;&lt;p&gt;(Escribe aquí)&lt;/p&gt;&#xA;&lt;h3 id=&#34;4-yo-soy-coherente&#34;&gt;4. ¿Yo soy coherente?&lt;/h3&gt;&#xA;&lt;p&gt;(Escribe aquí)&lt;/p&gt;</description>
-    </item>
+    <lastBuildDate>Wed, 03 Sep 2025 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/diarioweb/diario/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Diario 2025-09-03</title>
-      <link>http://localhost:1313/diario/2025-09-03/</link>
+      <link>http://localhost:1313/diarioweb/diario/2025-09-03/</link>
       <pubDate>Wed, 03 Sep 2025 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/diario/2025-09-03/</guid>
-      <description>&lt;h3 id=&#34;1-cómo-es-tu-ética&#34;&gt;1. ¿Cómo es tu ética?&lt;/h3&gt;&#xA;&lt;p&gt;(Escribe aquí)&lt;/p&gt;&#xA;&lt;h3 id=&#34;2-en-mis-actos-busco-la-verdad-el-bien-y-la-belleza-o-busco-la-fealdad-la-maldad-y-la-mentira&#34;&gt;2. ¿En mis actos busco la verdad, el bien y la belleza o busco la fealdad, la maldad y la mentira?&lt;/h3&gt;&#xA;&lt;p&gt;(Escribe aquí)&lt;/p&gt;&#xA;&lt;h3 id=&#34;3-el-compromiso-en-lo-que-voy-a-mejorar&#34;&gt;3. El compromiso en lo que voy a mejorar&lt;/h3&gt;&#xA;&lt;p&gt;(Escribe aquí)&lt;/p&gt;&#xA;&lt;h3 id=&#34;4-yo-soy-coherente&#34;&gt;4. ¿Yo soy coherente?&lt;/h3&gt;&#xA;&lt;p&gt;(Escribe aquí)&lt;/p&gt;</description>
+      <guid>http://localhost:1313/diarioweb/diario/2025-09-03/</guid>
+      <description>&lt;h3 id=&#34;1-cómo-es-tu-ética&#34;&gt;1. ¿Cómo es tu ética?&lt;/h3&gt;&#xA;&lt;p&gt;(Escribe aquí)&lt;/p&gt;&#xA;&lt;h3 id=&#34;2-en-mis-actos-busco-la-verdad-el-bien-y-la-belleza-o-busco-la-fealdad-la-maldad-y-la-mentira&#34;&gt;2. ¿En mis actos busco la verdad, el bien y la belleza o busco la fealdad, la maldad y la mentira?&lt;/h3&gt;&#xA;&lt;p&gt;(Escribe aquí)&lt;/p&gt;&#xA;&lt;h3 id=&#34;3-el-compromiso-en-lo-que-voy-a-mejorar&#34;&gt;3. El compromiso en lo que voy a mejorar&lt;/h3&gt;&#xA;&lt;p&gt;(Escribe aquí)&lt;/p&gt;&#xA;&lt;h3 id=&#34;4-yo-soy-coherente&#34;&gt;4. ¿Yo soy coherente?&lt;/h3&gt;&#xA;&lt;p&gt;(Escribe aquí)&lt;/p&gt;&#xA;&lt;h3 id=&#34;5-estoy-siendo-prudente-con-misactos&#34;&gt;5. ¿Estoy siendo prudente con mis actos?&lt;/h3&gt;&#xA;&lt;p&gt;(Escribe aquí)&lt;/p&gt;&#xA;&lt;h3 id=&#34;6-cuál-es-tu-orden-de-prioridades-orden-de-tus-amores-quién-está-primeroenmivida&#34;&gt;6. ¿Cuál es tu orden de prioridades (orden de tus amores)? ¿Quién está primero en mi vida?&lt;/h3&gt;&#xA;&lt;p&gt;(Escribe aquí)&lt;/p&gt;</description>
     </item>
     <item>
       <title>Diario 2025-09-02</title>
-      <link>http://localhost:1313/diario/2025-09-02/</link>
+      <link>http://localhost:1313/diarioweb/diario/2025-09-02/</link>
       <pubDate>Tue, 02 Sep 2025 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/diario/2025-09-02/</guid>
-      <description>&lt;h3 id=&#34;1-cómo-es-tu-ética&#34;&gt;1. ¿Cómo es tu ética?&lt;/h3&gt;&#xA;&lt;p&gt;(Escribe aquí)&lt;/p&gt;&#xA;&lt;h3 id=&#34;2-en-mis-actos-busco-la-verdad-el-bien-y-la-belleza-o-busco-la-fealdad-la-maldad-y-la-mentira&#34;&gt;2. ¿En mis actos busco la verdad, el bien y la belleza o busco la fealdad, la maldad y la mentira?&lt;/h3&gt;&#xA;&lt;p&gt;(Escribe aquí)&lt;/p&gt;&#xA;&lt;h3 id=&#34;3-el-compromiso-en-lo-que-voy-a-mejorar&#34;&gt;3. El compromiso en lo que voy a mejorar&lt;/h3&gt;&#xA;&lt;p&gt;(Escribe aquí)&lt;/p&gt;&#xA;&lt;h3 id=&#34;4-yo-soy-coherente&#34;&gt;4. ¿Yo soy coherente?&lt;/h3&gt;&#xA;&lt;p&gt;(Escribe aquí)&lt;/p&gt;</description>
+      <guid>http://localhost:1313/diarioweb/diario/2025-09-02/</guid>
+      <description>&lt;h3 id=&#34;1-cómo-es-tu-ética&#34;&gt;1. ¿Cómo es tu ética?&lt;/h3&gt;&#xA;&lt;p&gt;Creo que al cultivar el amor propio, también fortalezco mi ética.&lt;/p&gt;&#xA;&lt;h3 id=&#34;2-en-mis-actos-busco-la-verdad-el-bien-y-la-belleza-o-busco-la-fealdad-la-maldad-y-la-mentira&#34;&gt;2. ¿En mis actos busco la verdad, el bien y la belleza o busco la fealdad, la maldad y la mentira?&lt;/h3&gt;&#xA;&lt;p&gt;Considero que el aprecio por mí mismo y por los demás genera belleza en mi forma de vivir.&lt;/p&gt;&#xA;&lt;h3 id=&#34;3-el-compromiso-en-lo-que-voy-a-mejorar&#34;&gt;3. El compromiso en lo que voy a mejorar&lt;/h3&gt;&#xA;&lt;p&gt;Me comprometo a estar más atento para cuidarme mejor y así poder cuidar también a los demás.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Diario 2025-09-01</title>
-      <link>http://localhost:1313/diario/2025-09-01/</link>
+      <link>http://localhost:1313/diarioweb/diario/2025-09-01/</link>
       <pubDate>Mon, 01 Sep 2025 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/diario/2025-09-01/</guid>
-      <description>&lt;h3 id=&#34;1-cómo-es-tu-ética&#34;&gt;1. ¿Cómo es tu ética?&lt;/h3&gt;&#xA;&lt;p&gt;Mi ética involucra el aprecio que tengo por mi mismo y por los demás de una forma amable.&lt;/p&gt;&#xA;&lt;h3 id=&#34;2-en-mis-actos-busco-la-verdad-el-bien-y-la-belleza-o-busco-la-fealdad-la-maldad-y-la-mentira&#34;&gt;2. ¿En mis actos busco la verdad, el bien y la belleza o busco la fealdad, la maldad y la mentira?&lt;/h3&gt;&#xA;&lt;p&gt;una buena comunicación genera un mejor entendimiento y por ende, verdad, bien y belleza.&lt;/p&gt;&#xA;&lt;h3 id=&#34;3-el-compromiso-en-lo-que-voy-a-mejorar&#34;&gt;3. El compromiso en lo que voy a mejorar&lt;/h3&gt;&#xA;&lt;p&gt;Me parece interesante el poder reconocer emociones, seré más atento cuando sienta algo y pueda identificarlo.&lt;/p&gt;</description>
+      <guid>http://localhost:1313/diarioweb/diario/2025-09-01/</guid>
+      <description>&lt;h3 id=&#34;1-cómo-es-tu-ética&#34;&gt;1. ¿Cómo es tu ética?&lt;/h3&gt;&#xA;&lt;p&gt;Mi ética se basa en el aprecio hacia mí mismo y hacia los demás, expresado siempre con amabilidad.&lt;/p&gt;&#xA;&lt;h3 id=&#34;2-en-mis-actos-busco-la-verdad-el-bien-y-la-belleza-o-busco-la-fealdad-la-maldad-y-la-mentira&#34;&gt;2. ¿En mis actos busco la verdad, el bien y la belleza o busco la fealdad, la maldad y la mentira?&lt;/h3&gt;&#xA;&lt;p&gt;Una buena comunicación abre camino al entendimiento y con ello se cultivan la verdad, el bien y la belleza.&lt;/p&gt;&#xA;&lt;h3 id=&#34;3-el-compromiso-en-lo-que-voy-a-mejorar&#34;&gt;3. El compromiso en lo que voy a mejorar&lt;/h3&gt;&#xA;&lt;p&gt;Me comprometo a ser más atento con mis emociones, reconociéndolas e identificándolas cuando las experimente.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Diario 2025-08-31</title>
-      <link>http://localhost:1313/diario/2025-08-31/</link>
+      <link>http://localhost:1313/diarioweb/diario/2025-08-31/</link>
       <pubDate>Sun, 31 Aug 2025 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/diario/2025-08-31/</guid>
-      <description>&lt;h3 id=&#34;1-cómo-es-tu-ética&#34;&gt;1. ¿Cómo es tu ética?&lt;/h3&gt;&#xA;&lt;p&gt;A veces las emociones generan impulsos que afectan mis decisiones para plasmar mi ética, pero considero que puedo trabajar mas en mis convicciones a fin de ser más ecuánime en cuanto a mis reacciones con responsabilidad.&lt;/p&gt;&#xA;&lt;h3 id=&#34;2-en-mis-actos-busco-la-verdad-el-bien-y-la-belleza-o-busco-la-fealdad-la-maldad-y-la-mentira&#34;&gt;2. ¿En mis actos busco la verdad, el bien y la belleza o busco la fealdad, la maldad y la mentira?&lt;/h3&gt;&#xA;&lt;p&gt;la mentira a veces se vuelve un recurso sencillo de usar pero considero que se podría evitar valorando más lo humano.&lt;/p&gt;</description>
+      <guid>http://localhost:1313/diarioweb/diario/2025-08-31/</guid>
+      <description>&lt;h3 id=&#34;1-cómo-es-tu-ética&#34;&gt;1. ¿Cómo es tu ética?&lt;/h3&gt;&#xA;&lt;p&gt;Reconozco que a veces las emociones influyen en mis decisiones y ponen a prueba mi ética, pero busco fortalecer mis convicciones para reaccionar con mayor ecuanimidad y responsabilidad.&lt;/p&gt;&#xA;&lt;h3 id=&#34;2-en-mis-actos-busco-la-verdad-el-bien-y-la-belleza-o-busco-la-fealdad-la-maldad-y-la-mentira&#34;&gt;2. ¿En mis actos busco la verdad, el bien y la belleza o busco la fealdad, la maldad y la mentira?&lt;/h3&gt;&#xA;&lt;p&gt;La mentira puede parecer un recurso fácil, pero creo que se puede evitar si aprendo a valorar más lo humano y auténtico.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Diario 2025-08-30</title>
-      <link>http://localhost:1313/diario/2025-08-30/</link>
+      <link>http://localhost:1313/diarioweb/diario/2025-08-30/</link>
       <pubDate>Sat, 30 Aug 2025 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/diario/2025-08-30/</guid>
-      <description>&lt;h3 id=&#34;1-cómo-es-tu-ética&#34;&gt;1. ¿Cómo es tu ética?&lt;/h3&gt;&#xA;&lt;p&gt;Trato de hacer una pausa para comprender los sentimientos y perspectivas de los demás, pues ese aprecio en conjunto forma parte de mi ética.&lt;/p&gt;&#xA;&lt;h3 id=&#34;2-en-mis-actos-busco-la-verdad-el-bien-y-la-belleza-o-busco-la-fealdad-la-maldad-y-la-mentira&#34;&gt;2. ¿En mis actos busco la verdad, el bien y la belleza o busco la fealdad, la maldad y la mentira?&lt;/h3&gt;&#xA;&lt;p&gt;Vivir con Arte, sientiendo y espresando la vida con Arte, es la forma de vivir con belleza en la vida.&lt;/p&gt;</description>
+      <guid>http://localhost:1313/diarioweb/diario/2025-08-30/</guid>
+      <description>&lt;h3 id=&#34;1-cómo-es-tu-ética&#34;&gt;1. ¿Cómo es tu ética?&lt;/h3&gt;&#xA;&lt;p&gt;Mi ética está en hacer una pausa para comprender a los demás y valorar sus sentimientos y perspectivas.&lt;/p&gt;&#xA;&lt;h3 id=&#34;2-en-mis-actos-busco-la-verdad-el-bien-y-la-belleza-o-busco-la-fealdad-la-maldad-y-la-mentira&#34;&gt;2. ¿En mis actos busco la verdad, el bien y la belleza o busco la fealdad, la maldad y la mentira?&lt;/h3&gt;&#xA;&lt;p&gt;Vivir con arte, sintiendo y expresando la vida de esa manera, es mi forma de buscar la belleza en cada acto.&lt;/p&gt;&#xA;&lt;h3 id=&#34;3-el-compromiso-en-lo-que-voy-a-mejorar&#34;&gt;3. El compromiso en lo que voy a mejorar&lt;/h3&gt;&#xA;&lt;p&gt;Me comprometo a tener más paciencia al escuchar, para comprender mejor a la persona.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Diario 2025-08-29</title>
-      <link>http://localhost:1313/diario/2025-08-29/</link>
+      <link>http://localhost:1313/diarioweb/diario/2025-08-29/</link>
       <pubDate>Fri, 29 Aug 2025 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/diario/2025-08-29/</guid>
-      <description>&lt;h3 id=&#34;1-cómo-es-tu-ética&#34;&gt;1. ¿Cómo es tu ética?&lt;/h3&gt;&#xA;&lt;p&gt;La responsabilidad de cumplir adecuadamente mis compromisos, es parte de mi ética.&lt;/p&gt;&#xA;&lt;h3 id=&#34;2-en-mis-actos-busco-la-verdad-el-bien-y-la-belleza-o-busco-la-fealdad-la-maldad-y-la-mentira&#34;&gt;2. ¿En mis actos busco la verdad, el bien y la belleza o busco la fealdad, la maldad y la mentira?&lt;/h3&gt;&#xA;&lt;p&gt;Considero que el silencio también es comunicación y que debo mantener la busqueda de la belleza para que esos silencios sean buenos.&lt;/p&gt;&#xA;&lt;h3 id=&#34;3-el-compromiso-en-lo-que-voy-a-mejorar&#34;&gt;3. El compromiso en lo que voy a mejorar&lt;/h3&gt;&#xA;&lt;p&gt;voy a mejorar mi disciplina en cuanto a mis horarios de descanso y sueño.&lt;/p&gt;</description>
+      <guid>http://localhost:1313/diarioweb/diario/2025-08-29/</guid>
+      <description>&lt;h3 id=&#34;1-cómo-es-tu-ética&#34;&gt;1. ¿Cómo es tu ética?&lt;/h3&gt;&#xA;&lt;p&gt;Mi ética está en cumplir con responsabilidad los compromisos que asumo.&lt;/p&gt;&#xA;&lt;h3 id=&#34;2-en-mis-actos-busco-la-verdad-el-bien-y-la-belleza-o-busco-la-fealdad-la-maldad-y-la-mentira&#34;&gt;2. ¿En mis actos busco la verdad, el bien y la belleza o busco la fealdad, la maldad y la mentira?&lt;/h3&gt;&#xA;&lt;p&gt;Sé que el silencio también comunica, por eso quiero que refleje bondad y belleza.&lt;/p&gt;&#xA;&lt;h3 id=&#34;3-el-compromiso-en-lo-que-voy-a-mejorar&#34;&gt;3. El compromiso en lo que voy a mejorar&lt;/h3&gt;&#xA;&lt;p&gt;Me comprometo a ser más disciplinado con mis horarios de descanso y sueño.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Diario 2025-08-28</title>
-      <link>http://localhost:1313/diario/2025-08-28/</link>
+      <link>http://localhost:1313/diarioweb/diario/2025-08-28/</link>
       <pubDate>Thu, 28 Aug 2025 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/diario/2025-08-28/</guid>
+      <guid>http://localhost:1313/diarioweb/diario/2025-08-28/</guid>
       <description>&lt;h3 id=&#34;1-cómo-es-tu-ética&#34;&gt;1. ¿Cómo es tu ética?&lt;/h3&gt;&#xA;&lt;p&gt;Considero que, al ser fiel a mí mismo, mi ética me exige tener mayor claridad sobre lo que realmente hay dentro de mí: mis aspectos por mejorar y lo que debo aprender a mostrar adecuadamente.&lt;/p&gt;&#xA;&lt;h3 id=&#34;2-en-mis-actos-busco-la-verdad-el-bien-y-la-belleza-o-busco-la-fealdad-la-maldad-y-la-mentira&#34;&gt;2. ¿En mis actos busco la verdad, el bien y la belleza o busco la fealdad, la maldad y la mentira?&lt;/h3&gt;&#xA;&lt;p&gt;Creo que hay belleza en mostrarnos tal como somos, sin mentir acerca de las cosas en las que todavía estamos trabajando para mejorar.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Diario 2025-08-27</title>
-      <link>http://localhost:1313/diario/2025-08-27/</link>
+      <link>http://localhost:1313/diarioweb/diario/2025-08-27/</link>
       <pubDate>Wed, 27 Aug 2025 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/diario/2025-08-27/</guid>
+      <guid>http://localhost:1313/diarioweb/diario/2025-08-27/</guid>
       <description>&lt;h3 id=&#34;1-cómo-es-tu-ética&#34;&gt;1. ¿Cómo es tu ética?&lt;/h3&gt;&#xA;&lt;p&gt;He notado que, al reflexionar sobre mi comportamiento con los demás, también puedo reflexionar sobre el que tengo conmigo mismo.&lt;/p&gt;&#xA;&lt;h3 id=&#34;2-en-mis-actos-busco-la-verdad-el-bien-y-la-belleza-o-busco-la-fealdad-la-maldad-y-la-mentira&#34;&gt;2. ¿En mis actos busco la verdad, el bien y la belleza o busco la fealdad, la maldad y la mentira?&lt;/h3&gt;&#xA;&lt;p&gt;Siento que busco más la transparencia, ya que dentro de mí hay aspectos por mejorar. Considero que es bueno mostrarlos para que todos podamos llevarnos mejor.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Diario 2025-08-26</title>
-      <link>http://localhost:1313/diario/2025-08-26/</link>
+      <link>http://localhost:1313/diarioweb/diario/2025-08-26/</link>
       <pubDate>Tue, 26 Aug 2025 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/diario/2025-08-26/</guid>
+      <guid>http://localhost:1313/diarioweb/diario/2025-08-26/</guid>
       <description>&lt;h3 id=&#34;1-cómo-es-tu-ética&#34;&gt;1. ¿Cómo es tu ética?&lt;/h3&gt;&#xA;&lt;p&gt;Dentro de mi ética, busco la justa medida: expresarme con transparencia, teniendo aprecio tanto por mí mismo como por los demás.&lt;/p&gt;&#xA;&lt;h3 id=&#34;2-en-mis-actos-busco-la-verdad-el-bien-y-la-belleza-o-busco-la-fealdad-la-maldad-y-la-mentira&#34;&gt;2. ¿En mis actos busco la verdad, el bien y la belleza o busco la fealdad, la maldad y la mentira?&lt;/h3&gt;&#xA;&lt;p&gt;Trato de buscar siempre el bien; sin embargo, algunas veces recurro a la mentira para evitar problemas.&lt;/p&gt;&#xA;&lt;h3 id=&#34;3-el-compromiso-en-lo-que-voy-a-mejorar&#34;&gt;3. El compromiso en lo que voy a mejorar&lt;/h3&gt;&#xA;&lt;p&gt;Tratar de expresarme siempre con aprecio hacia las personas.&lt;/p&gt;</description>
     </item>
   </channel>

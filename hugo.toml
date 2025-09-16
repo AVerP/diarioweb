@@ -17,13 +17,19 @@ theme = "ananke"
 
 [menu]
   [[menu.main]]
-    name = "Diario"
-    url  = "/diario/"
-    weight = 10
+  name = "Semana 1"
+  url  = "/semana1/"
+  weight = 10
+
   [[menu.main]]
-    name = "Notas Filosóficas"
-    url  = "/notas-filosoficas/"
-    weight = 20
+  name = "Semana 2"
+  url  = "/semana2/"
+  weight = 11
+
+  [[menu.main]]
+  name = "Semana 3"
+  url  = "/semana3/"
+  weight = 12
 
 [build.sass]
   transpiler = "dartsass"

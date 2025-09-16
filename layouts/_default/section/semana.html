@@ -1,0 +1,42 @@
+{{ define "main" }}
+  <header class="container">
+    <h1>{{ .Title }}</h1>
+    {{ with .Content }}<div class="prose">{{ . }}</div>{{ end }}
+  </header>
+
+  <section class="container">
+    <table>
+      <thead>
+        <tr>
+          <th>Fecha</th>
+          <th>1. ¿Cómo es tu ética?</th>
+          <th>2. ¿Busco verdad…?</th>
+          <th>3. Compromiso de mejora</th>
+          <th>4. ¿Soy coherente?</th>
+          <th>5</th><th>6</th><th>7</th><th>8</th><th>9</th><th>10</th>
+          <th>Comentarios</th>
+        </tr>
+      </thead>
+      <tbody>
+        {{ range .Pages.ByDate }}
+          <tr>
+            <td>{{ .Date.Format "02-01-2006" }}</td>
+            <td>{{ .Params.q1 }}</td>
+            <td>{{ .Params.q2 }}</td>
+            <td>{{ .Params.q3 }}</td>
+            <td>{{ .Params.q4 }}</td>
+            <td>{{ .Params.q5 }}</td>
+            <td>{{ .Params.q6 }}</td>
+            <td>{{ .Params.q7 }}</td>
+            <td>{{ .Params.q8 }}</td>
+            <td>{{ .Params.q9 }}</td>
+            <td>{{ .Params.q10 }}</td>
+            <td>
+              {{ with .Params.comentarios }}<a href="{{ . }}">Abrir / Comentar</a>{{ end }}
+            </td>
+          </tr>
+        {{ end }}
+      </tbody>
+    </table>
+  </section>
+{{ end }}

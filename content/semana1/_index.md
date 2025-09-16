@@ -1,5 +1,5 @@
 ---
-title: "Diario"
+title: "Semana 1"
 description: "Entradas cotidianas, ideas y avances."
 ---
 

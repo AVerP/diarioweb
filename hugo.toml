@@ -27,13 +27,13 @@ theme = "ananke"
   # Hijos del dropdown
   [[menu.main]]
     name = "Semana 1"
-    url = "/semana1/:slug/"
+    url = "/semana1/"
     parent = "semanas"
     weight = 11
 
   [[menu.main]]
     name = "Semana 2"
-    url = "/semana2/:slug/"
+    url = "/semana2/"
     parent = "semanas"
     weight = 12
 

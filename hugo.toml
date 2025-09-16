@@ -10,7 +10,7 @@ theme = "ananke"
 
 [permalinks]
   # Todas las semanas estarán bajo la misma sección
-  semanas = "/"
+  semanas = "#"
   notas-filosoficas = "/notas-filosoficas/:slug/"
 
 [pagination]
@@ -22,7 +22,7 @@ theme = "ananke"
   [[menu.main]]
     name = "Semanas"
     identifier = "semanas"
-    url = "/"   # a dónde va si hacen clic en el título
+    url = "#"   # ← no navega, te quedas en la misma página
     weight = 10
 
   # Hijos del dropdown

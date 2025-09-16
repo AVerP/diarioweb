@@ -9,7 +9,8 @@ theme = "ananke"
   mainSections = []
 
 [permalinks]
-  diario = "/diario/:slug/"
+  # Todas las semanas estarán bajo la misma sección
+  semanas = "/semanas/:slug/"
   notas-filosoficas = "/notas-filosoficas/:slug/"
 
 [pagination]
@@ -17,38 +18,37 @@ theme = "ananke"
 
 [menu]
 
-  # Ítem padre (título del dropdown)
+  # Ítem padre (dropdown de semanas)
   [[menu.main]]
     name = "Semanas"
     identifier = "semanas"
-    url = "/semana1/"   # a dónde va si hacen clic en el título
+    url = "/semanas/"   # a dónde va si hacen clic en el título
     weight = 10
 
   # Hijos del dropdown
   [[menu.main]]
     name = "Semana 1"
-    url = "/semana1/"
+    url = "/semanas/semana1/"
     parent = "semanas"
     weight = 11
 
   [[menu.main]]
     name = "Semana 2"
-    url = "/semana2/"
+    url = "/semanas/semana2/"
     parent = "semanas"
     weight = 12
 
   [[menu.main]]
     name = "Semana 3"
-    url = "/semana3/"
+    url = "/semanas/semana3/"
     parent = "semanas"
     weight = 13
 
-  # Mantén otros enlaces que ya tienes
+  # Otros enlaces
   [[menu.main]]
     name = "Notas Filosóficas"
     url  = "/notas-filosoficas/"
     weight = 20
-
 
 [build.sass]
   transpiler = "dartsass"

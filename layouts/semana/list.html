@@ -1,0 +1,14 @@
+{{ define "main" }}
+  {{ $pages := .RegularPages.ByDate }}          {{/* ASCENDENTE */}}
+  {{ $paginator := .Paginate $pages }}
+  <div class="mw8 center">
+    <div class="flex-ns flex-wrap">
+      {{ range $paginator.Pages }}
+        <div class="w-100 w-50-m w-50-l pa2">
+          {{ .Render "summary" }}
+        </div>
+      {{ end }}
+    </div>
+    {{ partial "pagination.html" . }}
+  </div>
+{{ end }}

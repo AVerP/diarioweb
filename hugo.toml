@@ -22,7 +22,7 @@ theme = "ananke"
   [[menu.main]]
     name = "Semanas"
     identifier = "semanas"
-    url = "/semanas/"   # a dónde va si hacen clic en el título
+    url = "https://averp.github.io/diarioweb/"   # a dónde va si hacen clic en el título
     weight = 10
 
   # Hijos del dropdown

@@ -16,20 +16,39 @@ theme = "ananke"
   pagerSize = 10
 
 [menu]
+
+  # Ítem padre (título del dropdown)
   [[menu.main]]
-  name = "Semana 1"
-  url  = "/semana1/"
-  weight = 10
+    name = "Semanas"
+    identifier = "semanas"
+    url = "/semana1/"   # a dónde va si hacen clic en el título
+    weight = 10
+
+  # Hijos del dropdown
+  [[menu.main]]
+    name = "Semana 1"
+    url = "/semana1/"
+    parent = "semanas"
+    weight = 11
 
   [[menu.main]]
-  name = "Semana 2"
-  url  = "/semana2/"
-  weight = 11
+    name = "Semana 2"
+    url = "/semana2/"
+    parent = "semanas"
+    weight = 12
 
   [[menu.main]]
-  name = "Semana 3"
-  url  = "/semana3/"
-  weight = 12
+    name = "Semana 3"
+    url = "/semana3/"
+    parent = "semanas"
+    weight = 13
+
+  # Mantén otros enlaces que ya tienes
+  [[menu.main]]
+    name = "Notas Filosóficas"
+    url  = "/notas-filosoficas/"
+    weight = 20
+
 
 [build.sass]
   transpiler = "dartsass"

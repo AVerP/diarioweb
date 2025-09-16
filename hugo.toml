@@ -10,7 +10,7 @@ theme = "ananke"
 
 [permalinks]
   # Todas las semanas estarán bajo la misma sección
-  semanas = "/semanas/:slug/"
+  semanas = "https://averp.github.io/diarioweb/"
   notas-filosoficas = "/notas-filosoficas/:slug/"
 
 [pagination]
@@ -28,19 +28,19 @@ theme = "ananke"
   # Hijos del dropdown
   [[menu.main]]
     name = "Semana 1"
-    url = "/semanas/semana1/"
+    url = "/semana1/"
     parent = "semanas"
     weight = 11
 
   [[menu.main]]
     name = "Semana 2"
-    url = "/semanas/semana2/"
+    url = "/semana2/"
     parent = "semanas"
     weight = 12
 
   [[menu.main]]
     name = "Semana 3"
-    url = "/semanas/semana3/"
+    url = "/semana3/"
     parent = "semanas"
     weight = 13
 

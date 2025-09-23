@@ -44,6 +44,12 @@ theme = "ananke"
     parent = "semanas"
     weight = 13
 
+  [[menu.main]]
+    name = "Semana 4"
+    url = "/semana4/"
+    parent = "semanas"
+    weight = 14
+
   # Otros enlaces
   [[menu.main]]
     name = "Notas Filosóficas"

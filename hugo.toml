@@ -50,6 +50,13 @@ theme = "ananke"
     parent = "semanas"
     weight = 14
 
+  [[menu.main]]
+    name = "Semana 6"
+    url = "/semana6/"
+    parent = "semanas"
+    weight = 15
+
+
   # Otros enlaces
   [[menu.main]]
     name = "Notas Filosóficas"
